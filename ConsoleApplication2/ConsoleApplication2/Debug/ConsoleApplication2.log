@@ -1,0 +1,5 @@
+﻿  pch.cpp
+  ConsoleApplication2.cpp
+c:\users\rtfe4\source\repos\consoleapplication2\consoleapplication2\consoleapplication2.cpp(26): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\rtfe4\source\repos\consoleapplication2\consoleapplication2\consoleapplication2.cpp(33): warning C4018: <: несоответствие типов со знаком и без знака
+  ConsoleApplication2.vcxproj -> c:\users\rtfe4\source\repos\ConsoleApplication2\Debug\ConsoleApplication2.exe
